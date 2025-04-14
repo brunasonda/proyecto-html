@@ -1,89 +1,50 @@
-# proyecto-html
-Por Bruna Sonda e Iris Sánchez
+# 📝 Where is my HTML?
 
-# ¿Dónde está mi HTML?
+This is an HTML project for the FemCoders Bootcamp.\
+➡️ Web development- Frontend
 
-### Explicación del Proyecto
+## 💡 Project Description
 
-**Nuestro diseñador UX nos ha dado el diseño UI de una parte importante de nuestra página web, el *log in*, vamos a estructurar solamente el código HTML. No hagas hagas nada de CSS.**
+Our UX designer has provided us with the UI design for a key part of our website: the *log in* page. We are only going to structure the HTML code. 
 
-**¿Qué vamos a hacer?**
+### 📌 Main task
 
-Vamos a crear la estructura HTML de un formulario de Log In siguiendo un diseño UI proporcionado.
+We will create the HTML structure of a Log In form based on a given UI design.  
 
 ![image info](./assets/html-model.png)
 
-**¿Dónde lo vamos a hacer?**
+### 📂 Working space
 
-Trabajaremos en un archivo HTML que se guardará dentro de una carpeta específica.
+We will work on an HTML file that will be saved inside a specific folder.
 
-**¿Cómo lo hacemos?**
+### ℹ️ Detailed directions
 
-Usaremos etiquetas semánticas de HTML5 para estructurar el contenido, prestando atención a cómo se organizan las “cajas” o elementos para que otro desarrollador pueda agregar estilos CSS posteriormente.
+We’ll use semantic HTML5 tags to structure the content, paying attention to how the “boxes” or elements are organized, so that another developer can later add CSS styles.
+>🚫 Do not add any CSS
 
-**¿Con qué lo hacemos?**
+### 🛠️ Tools
 
-Utilizaremos HTML5 y un editor de texto como Visual Studio Code. No se permite el uso de CSS, solo HTML.
+- HTML5 &emsp; <img alt="html icon" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+- A text editor like Visual Studio Code &emsp; <img alt="vscode icon" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
-**¿Cómo se evalúa lo que hacemos?**
+### 📊 Evaluation
 
-El proyecto será evaluado en función de la estructura y semántica del HTML, así como en la organización clara y lógica de los elementos de la página.
+The project will be evaluated based on:
 
----
+- The structure and semantics of the HTML.
+- The clear and logical organization of the page elements.
 
-### **Objetivo del Proyecto**
 
-En esta **actividad en pair-programming**, el objetivo principal es **crear la estructura HTML para un formulario de Log In**, aplicando diferentes niveles de comprensión sobre la maquetación web, además de practicar subir el proyecto a un repositorio de GitHub. Se debe aplicar las prácticas de git y gitflow
+## 🎯 Project Goal
 
----
+In this **pair-programming activity**, the main goal is to **create the HTML structure for a Log In form**, applying different levels of understanding of web layout.  
+Moreover, you’ll practice pushing the project to a GitHub repository, while applying **Git** and **Gitflow** best practices.
 
-### **Paso a Paso**
+## 📷 Preview
 
-**Paso 1: Crear la Carpeta del Proyecto**
+![image info](./assets/preview-proyecto-html.png)
 
-- Crea una carpeta llamada `donde-esta-mi-html` en tu ordenador donde vas a guardar todos los archivos del proyecto.
+## 🤝  Team Members
 
-**Paso 2: Crear el Archivo HTML**
-
-- Dentro de la carpeta `donde-esta-mi-html`, crea un archivo llamado `index.html`.
-
-**Paso 3: Estructurar el Contenido en el Archivo HTML**
-
-1. **Inicia el archivo HTML** con la estructura básica de un documento HTML5:
-2. **Crear el contenedor principal** (`<div>`) o otra etiqueta mas semántica, que servirá como la "caja" principal del formulario.
-3. **Crear el formulario** (`<form>`) dentro del contenedor principal para alojar los campos de entrada y los botones.
-4. **Agregar los botones de inicio de sesión social dentro de la etiqueta form** utilizando etiquetas de botón (`<button>`) y etiquetas de imagen (`<img>`).
-5. **Añadir una línea de separación** (`<p><span>or</span></p>`) entre el inicio de sesión social y la entrada manual de datos.
-6. **Crear la sección de inicio de sesión con correo y contraseña** (`<div>`) con campos de entrada para email y contraseña utilizando las etiquetas input.
-7. **Agregar un botón de envío** (`<button>Log In</button>`) y un enlace para la recuperación de contraseña (`<a href="#">Forgot password?</a>`).
-8. **Cerrar el formulario y la estructura HTML**
-
-**Paso 4: Guardar y Revisar**
-
-- Guarda todos los cambios en el archivo `index.html` y revisa que el HTML se haya estructurado correctamente siguiendo las instrucciones dadas.
-
----
-
-### Recursos y Herramientas
-
-- **Editor de Texto**: [Visual Studio Code](https://code.visualstudio.com/)
-- **Documentación HTML**:
-    - [Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
-    - [HTML: Lenguaje de etiquetas de hipertexto](https://developer.mozilla.org/es/docs/Web/HTML)
-    - [Tabla periódica de HTML5](https://lenguajehtml.com/html/introduccion/tabla-periodica-html5/)
-    - [Building your first web page](https://learn.shayhowe.com/html-css/building-your-first-web-page/)
-
----
-
-### Entrega
-
-- **Formato de entrega**:
-    - Entragar el enlace de ropositorio de github hasta el 11/04.
-
----
-
-Este proyecto te permitirá familiarizarte con la estructura de ‘cajas’ (contenedores) de HTML y la organización lógica del contenido en una página web, preparando la base para futuras aplicaciones de estilo y diseño.
-
-**¿Cómo sabrás si el proyecto es correcto?** Ya lo veremos más adelante…
-
-⛔️ Prohibido usar CSS. Sólo podemos hacer el HTML.
+- [Bruna Sonda](https://github.com/brunasonda)  
+- [Iris Sánchez](https://github.com/isanort)
