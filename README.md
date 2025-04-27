@@ -11,7 +11,7 @@ Our UX designer has provided us with the UI design for a key part of our website
 
 We will create the HTML structure of a Log In form based on a given UI design.  
 
-![image info](./assets/html-model.png)
+<p align=center><img src="./assets/html-model.png" alt="form model image" height=300></p>
 
 ### 📂 Working space
 
@@ -42,7 +42,7 @@ Moreover, you’ll practice pushing the project to a GitHub repository, while ap
 
 ## 📷 Preview
 
-![image info](./assets/preview-proyecto-html.png)
+<p align=center><img src="./assets/preview-proyecto-html.png" alt="preview image" height=300></p>
 
 ## 🤝  Team Members
 
